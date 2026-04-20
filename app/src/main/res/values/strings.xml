@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SR Reminders</string>
+
+    <!-- Main -->
+    <string name="add_reminder">Add Reminder</string>
+    <string name="no_reminders">No reminders yet.\nTap + to add one.</string>
+
+    <!-- Add Form -->
+    <string name="hint_title">Reminder Title</string>
+    <string name="hint_name">Person / Note Name</string>
+    <string name="hint_date">Date</string>
+    <string name="hint_time">Time</string>
+    <string name="notification_label">Set Notification</string>
+    <string name="notification_desc">Get alerted at the scheduled time</string>
+    <string name="save_reminder">Save Reminder</string>
+
+    <!-- Item Actions -->
+    <string name="mark_done">Mark Done</string>
+    <string name="delete">Delete</string>
+
+    <!-- Status Labels -->
+    <string name="status_active">Active</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_expired">Expired</string>
+</resources>
